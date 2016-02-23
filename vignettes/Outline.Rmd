@@ -27,7 +27,7 @@ Each step of the workflow has a written component (blog post) describing the top
 
 ## Day 1
 
-### [00 - Welcome (8:30 am - 9:00 am)]
+### 00 - Welcome (8:30 am - 9:00 am)
 
 - Why R
 - Pre-course survey results
@@ -102,7 +102,7 @@ Each step of the workflow has a written component (blog post) describing the top
 
 ## Day 3
 
-### [10 - Practice (8:30 am - 10:30 am)]
+### 10 - Practice (8:30 am - 10:30 am)
 
 - Work on projects (group/individual)
 - Cover additional topics brought up during the workshop
